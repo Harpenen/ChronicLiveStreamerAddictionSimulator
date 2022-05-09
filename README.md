@@ -1,5 +1,6 @@
 # Chronic Live Streamer Addiction Simulator
 #### You can now know how it feels to be addicted to live streamers.
+#### This program is a shitpost.
 #### Because of what this program does, I would personally consider it malware, so dont go around trolling your poor technologically inept friends with it.
 
 # Features
